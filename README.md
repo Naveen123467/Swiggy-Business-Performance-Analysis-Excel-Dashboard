@@ -46,14 +46,10 @@ This project analyzes Swiggy food delivery data using Excel to uncover sales tre
 
 ## Key Performance Indicators (KPIs)
 
--The dashboard focuses on the following core business KPIs to measure Swiggy’s sales and customer performance:
+The dashboard focuses on the following core business KPIs to measure Swiggy’s sales and customer performance:
 
--Total Sales (₹): Overall revenue generated from food orders.
-
--Total Orders: Total number of food orders received.
-
--Average Order Value (₹): Average revenue generated per order.
-
--Average Rating: Overall customer satisfaction level.
-
--Ratings Count: Total number of customer reviews submitted.
+- **Total Sales (₹):** Overall revenue generated from food orders.
+- **Total Orders:** Total number of food orders received.
+- **Average Order Value (₹):** Average revenue generated per order.
+- **Average Rating:** Overall customer satisfaction level.
+- **Ratings Count:** Total number of customer reviews submitted.
