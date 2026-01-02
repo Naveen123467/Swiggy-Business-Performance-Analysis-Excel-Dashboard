@@ -13,9 +13,13 @@ This project analyzes Swiggy food delivery data using Excel to uncover sales tre
 ## 🎯 Problem Statement
 
 - Identify top-performing states and cities by sales
+  
 - Analyze month-wise and quarter-wise revenue trends
+  
 - Compare weekend vs weekday demand
+  
 - Evaluate Veg vs Non-Veg sales contribution
+  
 - Track average ratings and total reviews
 
 ## 🛠 Tools Used
@@ -43,8 +47,13 @@ This project analyzes Swiggy food delivery data using Excel to uncover sales tre
 ## Key Performance Indicators (KPIs)
 
 -The dashboard focuses on the following core business KPIs to measure Swiggy’s sales and customer performance:
+
 -Total Sales (₹): Overall revenue generated from food orders.
+
 -Total Orders: Total number of food orders received.
+
 -Average Order Value (₹): Average revenue generated per order.
+
 -Average Rating: Overall customer satisfaction level.
+
 -Ratings Count: Total number of customer reviews submitted.
