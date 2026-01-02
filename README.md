@@ -53,3 +53,6 @@ The dashboard focuses on the following core business KPIs to measure Swiggy’s 
 - **Average Order Value (₹):** Average revenue generated per order.
 - **Average Rating:** Overall customer satisfaction level.
 - **Ratings Count:** Total number of customer reviews submitted.
+
+## Dashboard Screenshots
+  <img width="1288" height="721" alt="Image" src="https://github.com/user-attachments/assets/b127f3ff-79d8-4c7a-9666-ec0adaa5feef" />
