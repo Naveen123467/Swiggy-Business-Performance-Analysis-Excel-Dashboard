@@ -5,6 +5,11 @@ An Excel-based Swiggy Sales Dashboard that visualizes total sales, orders, custo
 
 This project analyzes Swiggy food delivery data using Excel to uncover sales trends, customer behavior, and operational insights. The dashboard helps stakeholders track key metrics such as revenue, order volume, average order value, ratings, and peak demand periods to support data-driven business decisions.
 
+## 🔗 Project Files & Dataset
+
+- **Dashboard Output:** https://github.com/Naveen123467/Swiggy-Business-Performance-Analysis-Excel-Dashboard/blob/main/Swiggy_Sales_Performance_Dashboard.xlsx
+- **Dataset:** https://github.com/Naveen123467/Swiggy-Business-Performance-Analysis-Excel-Dashboard/blob/main/dataset.csv.xlsx
+
 ## 🎯 Problem Statement
 
 - Identify top-performing states and cities by sales
@@ -33,4 +38,13 @@ This project analyzes Swiggy food delivery data using Excel to uncover sales tre
 - ✔ Collect, aggregate, and clean the Swiggy orders dataset for accurate analysis  
 - ✔ Build an interactive Excel dashboard using Pivot Tables and key performance indicators (KPIs)  
 - ✔ Enable month-wise and region-wise comparisons using dynamic slicers  
-- ✔ Deliver actionable visual insights to support data-driven business decisions  
+- ✔ Deliver actionable visual insights to support data-driven business decisions
+
+## Key Performance Indicators (KPIs)
+
+-The dashboard focuses on the following core business KPIs to measure Swiggy’s sales and customer performance:
+-Total Sales (₹): Overall revenue generated from food orders.
+-Total Orders: Total number of food orders received.
+-Average Order Value (₹): Average revenue generated per order.
+-Average Rating: Overall customer satisfaction level.
+-Ratings Count: Total number of customer reviews submitted.
